@@ -19,6 +19,8 @@ To use either prefab, simply drag and drop it to the root of your avatar, make s
 
 If you would like to use your own decks, use the table prefab and add the decks to the table in the viewport as a child of the container object.
 
+**If you are using the EDJ-3000s, I highly recommend changing the resolution of all textures from 2048 down to 512.**
+
 ### Credits
 
 [Table Mesh](https://sketchfab.com/3d-models/exterior-table-abrela-4288fde50a3b4e76a7bad37c83039612) (CC-BY-SA)
